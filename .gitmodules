@@ -4,3 +4,6 @@
 [submodule "owovm"]
 	path = owovm
 	url = https://github.com/notflawffles/owovm
+[submodule "owodisasm"]
+	path = owodisasm
+	url = https://github.com/NotFlawffles/owodisasm
