@@ -1,0 +1,6 @@
+[submodule "owosm"]
+	path = owosm
+	url = https://github.com/notflawffles/owosm
+[submodule "owovm"]
+	path = owovm
+	url = https://github.com/notflawffles/owovm
